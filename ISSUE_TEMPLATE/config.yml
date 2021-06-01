@@ -1,0 +1,4 @@
+contact_links:
+  - name: Akka.NET Support
+    url: https://github.com/akkadotnet/.github/blob/master/SUPPORT.md
+    about: Resources for answering questions.
