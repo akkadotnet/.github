@@ -1,4 +1,7 @@
 contact_links:
-  - name: Akka.NET Support
+  - name: Akka.NET Community Support
     url: https://github.com/akkadotnet/.github/blob/master/SUPPORT.md
-    about: Resources for answering questions.
+    about: Free resources for answering Akka.NET questions
+  - name: Akka.NET Professional Support
+    url: https://petabridge.com/services/support/
+    about: 1-business day SLA support from Petabridge
