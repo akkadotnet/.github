@@ -1,5 +1,7 @@
 # Akka.NET
 
+![Akka.NET Logo](akkalogo.png)
+
 Akka.NET is a .NET port of the popular [Akka project](https://akka.io/) from the Scala / Java community. We are an idiomatic [.NET implementation of the actor model](https://petabridge.com/blog/akkadotnet-what-is-an-actor/) built on top of the .NET Common Language Runtime.
 
 We are a [.NET Foundation member project](https://dotnetfoundation.org/projects/akkadotnet).
