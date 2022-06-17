@@ -9,7 +9,7 @@ We are a [.NET Foundation member project](https://dotnetfoundation.org/projects/
 * **Website**: [https://getakka.net/](https://getakka.net/)
 * **Twitter** 🐦: [AkkaDotNet](https://twitter.com/AkkaDotNet)
 * **Discussions** 📣: [Akka.NET GitHub Discussions](https://github.com/akkadotnet/akka.net/discussions)
-* **Chat** 💬: [Akka.NET on Discord](https://discord.gg/ESrURsm9)
+* **Chat** 💬: [Akka.NET on Discord](https://discord.gg/GSCfPwhbWP)
 * **StackOverflow** ✔️: [Akka.NET on StackOverflow](https://stackoverflow.com/questions/tagged/akka.net)
 
 ## How is Akka.NET Used?
