@@ -2,9 +2,6 @@ name: Contributor License Agreement Policy
 description: CLA policy file
 
 resource: repository
-where:
-- |
-  !repository.name.equals("CHERIoT", StringComparison.InvariantCultureIgnoreCase)
 
 configuration: 
    cla:
