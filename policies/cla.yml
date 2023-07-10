@@ -1,6 +1,7 @@
 name: Contributor License Agreement Policy 
 description: CLA policy file
 
+
 resource: repository
 
 configuration: 
