@@ -2,7 +2,7 @@
 Akka.NET is a mature technology with a large, active community of contributors and users. Thus, we have a number of support resources available to you for learning and adopting Akka.NET!
 
 ## Getting Questions Answered
-There are a number of places you can go to get questions answered about Akka.NET:
+There are a number of places you can go to get questions answered about Akka.NET:cc
 
 * [Akka.NET Chat](https://gitter.im/akkadotnet/akka.net)
 * [Akka.NET Github Discussions](https://github.com/akkadotnet/akka.net/discussions)
