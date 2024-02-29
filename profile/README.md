@@ -6,7 +6,7 @@ Akka.NET is a .NET port of the popular [Akka project](https://akka.io/) from the
 
 We are a [.NET Foundation member project](https://dotnetfoundation.org/projects/akkadotnet).
 
-![Discord](https://img.shields.io/discord/974500337396375553?style=flat&logo=discord&label=Join%20Akka.NET%20Discord)
+[![Discord](https://img.shields.io/discord/974500337396375553?style=flat&logo=discord&label=Join%20Akka.NET%20Discord)](https://discord.com/invite/GSCfPwhbWP)
 
 * **Website**: [https://getakka.net/](https://getakka.net/)
 * **Twitter** 🐦: [AkkaDotNet](https://twitter.com/AkkaDotNet)
